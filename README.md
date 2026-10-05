@@ -6,6 +6,7 @@ Official developer and AI Agent documentation for **The HR Stack Guide** program
 This API provides deterministic annual cost calculations for global Employer of Record (EOR) software vendors including Multiplier, Rippling, Remote, and Deel.
 
 - **Live Endpoint:** `https://www.thehrstackguide.com/api/calculate-eor.json`
+- **Postman API Docs:** `https://documenter.getpostman.com/view/58742298/2sBYHNYPFB`
 - **Documentation & Methodology:** `https://www.thehrstackguide.com/methodology/`
 - **Entity Home:** `https://www.thehrstackguide.com/about/`
 
