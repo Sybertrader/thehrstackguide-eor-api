@@ -13,3 +13,8 @@ This API provides deterministic annual cost calculations for global Employer of 
 
 ```bash
 curl -X GET "[https://www.thehrstackguide.com/api/calculate-eor.json?eor=5&contractors=10](https://www.thehrstackguide.com/api/calculate-eor.json?eor=5&contractors=10)"
+
+Schema & Specification
+The OpenAPI 3.0 specification is available in this repository as openapi.json or directly hosted at https://www.thehrstackguide.com/openapi.json.
+
+Developed & Maintained by Dave Storey at The HR Stack Guide.
